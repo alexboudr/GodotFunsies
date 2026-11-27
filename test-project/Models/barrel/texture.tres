@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bs66vndaobdl6"]
+
+[ext_resource type="Texture2D" uid="uid://cr7adrkn3nvxa" path="res://Models/barrel/barrel_texture.png" id="1_i2dox"]
+
+[resource]
+resource_name = "texture"
+albedo_texture = ExtResource("1_i2dox")
+metadata/_gltf_primary_texture_coord = 0
